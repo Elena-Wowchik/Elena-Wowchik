@@ -1,5 +1,7 @@
 # Elena-Wowchik
 👋 Hi, ich bin Lena
+<img width="1536" height="632" alt="image" src="https://github.com/user-attachments/assets/af05d858-ae34-40d4-aba6-57460fcd2173" />
+
 
 BI / Data Analyst (Career Switch) · 20+ Jahre Industrie · 8 Jahre Remote & Freelance · Power BI · ML· Scrum · FlexPLM
 
