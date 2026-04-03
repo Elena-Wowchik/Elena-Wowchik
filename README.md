@@ -3,7 +3,7 @@
 <img width="1536" height="632" alt="image" src="https://github.com/user-attachments/assets/af05d858-ae34-40d4-aba6-57460fcd2173" />
 
 
-BI / Data Analyst (Career Switch) · 20+ Jahre Industrie · 8 Jahre Remote & Freelance · Power BI · ML· Scrum · FlexPLM
+BI / Data Analyst (Career Switch) · 18+ Jahre Industrie · 8 Jahre Remote & Freelance · Power BI · ML· Scrum · FlexPLM
 
 Ich bin eine datengetriebene Analystin mit starkem analytischem Hintergrund und langjähriger Industrieerfahrung als dipl.ing.
 Mein Fokus liegt darauf, komplexe Daten in fundierte Entscheidungsgrundlagen zu überführen – mit Python, SQL, BI-Tools und Machine-Learning-Verfahren.
